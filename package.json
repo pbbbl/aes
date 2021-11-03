@@ -12,13 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pbbbl/aes.git."
+    "url": "git://github.com/pbbbl/aes.git"
   },
   "license": "Unlicense",
-  "bugs": {
-    "url": "https://github.com/pbbbl/aes/issues"
-  },
-  "homepage": "https://github.com/pbbbl/aes#readme",
   "dependencies": {
     "aes-256-gcm": "^1.0.3",
     "nodejs-base64": "^2.0.0"
